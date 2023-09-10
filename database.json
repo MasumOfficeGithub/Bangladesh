@@ -1,0 +1,304 @@
+{
+  "id": 1,
+  "name": "Bangladesh",
+  "iso3": "BGD",
+  "iso2": "BD",
+  "numeric_code": "050",
+  "phone_code": "880",
+  "capital": "Dhaka",
+  "currency": "BDT",
+  "currency_name": "Bangladeshi taka",
+  "currency_symbol": "৳",
+  "tld": ".bd",
+  "native": "Bangladesh",
+  "region": "Asia",
+  "subregion": "Southern Asia",
+  "nationality": "Bangladeshi",
+  "timezones": [
+      {
+          "zoneName": "Asia\/Dhaka",
+          "gmtOffset": 21600,
+          "gmtOffsetName": "UTC+06:00",
+          "abbreviation": "BDT",
+          "tzName": "Bangladesh Standard Time"
+      }
+  ],
+  "translations": {
+      "kr": "방글라데시",
+      "pt-BR": "Bangladesh",
+      "pt": "Bangladeche",
+      "nl": "Bangladesh",
+      "hr": "Bangladeš",
+      "fa": "بنگلادش",
+      "de": "Bangladesch",
+      "es": "Bangladesh",
+      "fr": "Bangladesh",
+      "ja": "バングラデシュ",
+      "it": "Bangladesh",
+      "cn": "孟加拉",
+      "tr": "Bangladeş"
+  },
+  "latitude": "24.00000000",
+  "longitude": "90.00000000",
+  "emoji": "🇧🇩",
+  "emojiU": "U+1F1E7 U+1F1E9",
+  "divisions": [
+      {
+          "id": 1,
+          "name": "Dhaka Division",
+          "latitude": "22.66024360",
+          "longitude": "89.78954780",
+          "districts": [
+                {
+                  "name": "Dhaka District"
+                },
+                {
+                  "name": "Kishoreganj District"
+                },
+                {
+                  "name": "Faridpur District"
+                },
+                {
+                  "name": "Gazipur District"
+                },
+                {
+                  "name": "Gopalganj District"
+                },
+                {
+                  "name": "Madaripur District"
+                },
+                {
+                  "name": "Manikganj District"
+                },
+                {
+                  "name": "Munshiganj District"
+                },
+                {
+                  "name": "Narayanganj District"
+                },
+                {
+                  "name": "Narsingdi District"
+                },
+                {
+                  "name": "Rajbari District"
+                },
+                {
+                  "name": "Shariatpur District"
+                },
+                {
+                  "name": "Tangail District"
+                }
+          ]
+      },
+      {
+          "id": 2,
+          "name": "Chattogram Division",
+          "latitude": "23.78987120",
+          "longitude": "90.16714830",
+          "districts": [
+              {
+                  "name": "Chattogram District"
+                },
+                {
+                  "name": "Brahmanbaria District"
+                },
+                {
+                  "name": "Chandpur District"
+                },
+                {
+                  "name": "Comilla District"
+                },
+                {
+                  "name": "Feni District"
+                },
+                {
+                  "name": "Lakshmipur District"
+                },
+                {
+                  "name": "Noakhali District"
+                },
+                {
+                  "name": "Khagrachhari District"
+                },
+                {
+                  "name": "Bandarban District"
+                },
+                {
+                  "name": "Rangamati District"
+                },
+                {
+                  "name": "Cox's Bazar District"
+                }
+          ]
+      },
+      {
+          "id": 3,
+          "name": "Rajshahi Division",
+          "latitude": "21.83110020",
+          "longitude": "92.36863210",
+          "districts": [
+                {
+                  "name": "Rajshahi District"
+                },
+                {
+                  "name": "Bogra District"
+                },
+                {
+                  "name": "Joypurhat District"
+                },
+                {
+                  "name": "Naogaon District"
+                },
+                {
+                  "name": "Natore District"
+                },
+                {
+                  "name": "Chapai Nawabganj District"
+                },
+                {
+                  "name": "Pabna District"
+                },
+                {
+                  "name": "Sirajganj District"
+                }
+          ]
+      },
+      {
+          "id": 4,
+          "name": "Khulna Division",
+          "latitude": "22.09529150",
+          "longitude": "90.11206960",
+          "districts": [
+                {
+                  "name": "Khulna District"
+                },
+                {
+                  "name": "Bagerhat District"
+                },
+                {
+                  "name": "Chuadanga District"
+                },
+                {
+                  "name": "Jessore District"
+                },
+                {
+                  "name": "Jhenaidah District"
+                },
+                {
+                  "name": "Kushtia District"
+                },
+                {
+                  "name": "Magura District"
+                },
+                {
+                  "name": "Meherpur District"
+                },
+                {
+                  "name": "Narail District"
+                },
+                {
+                  "name": "Satkhira District"
+                }
+          ]
+      },
+      {
+          "id": 5,
+          "name": "Rangpur Division",
+          "latitude": "22.70220980",
+          "longitude": "90.36963160",
+          "districts": [
+                {
+                  "name": "Rangpur District"
+                },
+                {
+                  "name": "Dinajpur District"
+                },
+                {
+                  "name": "Gaibandha District"
+                },
+                {
+                  "name": "Kurigram District"
+                },
+                {
+                  "name": "Lalmonirhat District"
+                },
+                {
+                  "name": "Nilphamari District"
+                },
+                {
+                  "name": "Panchagarh District"
+                },
+                {
+                  "name": "Thakurgaon District"
+                }
+          ]
+      },
+      {
+          "id": 6,
+          "name": "Barisal Division",
+          "latitude": "22.38111310",
+          "longitude": "90.33718890",
+          "districts": [
+                {
+                  "name": "Barisal District"
+                },
+                {
+                  "name": "Pirojpur District"
+                },
+                {
+                  "name": "Barguna District"
+                },
+                {
+                  "name": "Bhola District"
+                },
+                {
+                  "name": "Jhalokati District"
+                },
+                {
+                  "name": "Patuakhali District"
+                }
+          ]
+      },
+      {
+          "id": 7,
+          "name": "Mymensingh Division",
+          "state_code": "07",
+          "latitude": "22.17853150",
+          "longitude": "90.71010230",
+          "districts": [
+                {
+                  "name": "Mymensingh District"
+                },
+                {
+                  "name": "Netrokona District"
+                },
+                {
+                  "name": "Jamalpur District"
+                },
+                {
+                  "name": "Sherpur District"
+                }
+          ]
+      },
+      {
+          "id": 8,
+          "name": "Sylhet Division",
+          "latitude": "24.85104020",
+          "longitude": "89.36972250",
+          "districts": [
+               {
+                  "name": "Sylhet District"
+                },
+                {
+                  "name": "Habiganj District"
+                },
+                {
+                  "name": "Moulvibazar District"
+                },
+                {
+                  "name": "Sunamganj District"
+                }
+          ]
+      }
+  ]
+}
